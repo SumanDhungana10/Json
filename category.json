@@ -3,7 +3,7 @@
     "id": 1,
     "name": "math",
     "description": "",
-    "image": "https://www.flaticon.com/free-icon/laboratory_2387545?term=chemistry&page=1&position=5&origin=search&related_id=2387545"
+    "image": "https://cdn-icons-png.flaticon.com/512/4720/4720458.png"
   },
   {
     "id": 2,
@@ -21,12 +21,12 @@
     "id": 4,
     "name": "english",
     "description": "",
-    "image": "images/eng.png"
+    "image": "https://cdn-icons-png.flaticon.com/512/5309/5309804.png"
   },
   {
     "id": 5,
     "name": "computer",
     "description": "",
-    "image": "images/technical-support.png"
+    "image": "https://cdn-icons-png.flaticon.com/512/4882/4882992.png"
   }
 ]
