@@ -3,30 +3,30 @@
     "id": 1,
     "name": "math",
     "description": "",
-    "image": ""
+    "image": "images/tools.png"
   },
   {
     "id": 2,
     "name": "physics",
     "description": "",
-    "image": ""
+    "image": "images/innovation.png"
   },
   {
     "id": 3,
     "name": "chemistry",
     "description": "",
-    "image": ""
+    "image": "images/laboratry.png"
   },
   {
     "id": 4,
     "name": "english",
     "description": "",
-    "image": ""
+    "image": "images/eng.png"
   },
   {
     "id": 5,
     "name": "computer",
     "description": "",
-    "image": ""
+    "image": "images/technical-support.png"
   }
 ]
