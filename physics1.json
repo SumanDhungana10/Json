@@ -1,5 +1,5 @@
 {
-  ["mechanic": [
+  "mechanic": [
     {
       "id": 1,
       "question": "If a is along the positive Z-axis and \\vec{a}\\times\\vec{b}=0 then b could be",
@@ -11,7 +11,6 @@
       "image": ""
     },
     {
-     
       "id": 2,
       "question": "Which of the following forces can be applied to a body so as not to cause acceleration of the body?",
       "options": ["6, 7, 15", "20, 5, 12", "7, 16, 8", "9, 10, 12"],
@@ -21,36 +20,31 @@
       "verified_by": "Ronika",
       "image": ""
     }
-  ]],
- [ "heat and thermodynamics": [
-    {
-      
-      "id": 1,
-      "question": "If a is along the positive Z-axis and \\vec{a}\\times\\vec{b}=0 then b could be",
-      "options": ["i+j", "3j", "41"],
-      "answer": 1,
-      "explanation": "",
-      "isVerified": true,
-      "verified_by": "Ronika",
-      "image": ""
-    },
-    {
-     
-      "id": 2,
-      "question": "Which of the following forces can be applied to a body so as not to cause acceleration of the body?",
-      "options": ["6, 7, 15", "20, 5, 12", "7, 16, 8", "9, 10, 12"],
-      "answer": 2,
-      "explanation": "",
-      "isVerified": true,
-      "verified_by": "Ronika",
-      "image": ""
-    }
-  ]
   ],
-  [
+  "heat and thermodynamics": [
+    {
+      "id": 1,
+      "question": "If a is along the positive Z-axis and \\vec{a}\\times\\vec{b}=0 then b could be",
+      "options": ["i+j", "3j", "41"],
+      "answer": 1,
+      "explanation": "",
+      "isVerified": true,
+      "verified_by": "Ronika",
+      "image": ""
+    },
+    {
+      "id": 2,
+      "question": "Which of the following forces can be applied to a body so as not to cause acceleration of the body?",
+      "options": ["6, 7, 15", "20, 5, 12", "7, 16, 8", "9, 10, 12"],
+      "answer": 2,
+      "explanation": "",
+      "isVerified": true,
+      "verified_by": "Ronika",
+      "image": ""
+    }
+  ],
   "wave and sound": [
     {
-      
       "id": 1,
       "question": "If a is along the positive Z-axis and \\vec{a}\\times\\vec{b}=0 then b could be",
       "options": ["i+j", "3j", "41"],
@@ -61,7 +55,6 @@
       "image": ""
     },
     {
-      
       "id": 2,
       "question": "Which of the following forces can be applied to a body so as not to cause acceleration of the body?",
       "options": ["6, 7, 15", "20, 5, 12", "7, 16, 8", "9, 10, 12"],
@@ -71,12 +64,9 @@
       "verified_by": "Ronika",
       "image": ""
     }
-  ]
   ],
-  [
   "optics": [
     {
-      
       "id": 1,
       "question": "If a is along the positive Z-axis and \\vec{a}\\times\\vec{b}=0 then b could be",
       "options": ["i+j", "3j", "41"],
@@ -87,7 +77,6 @@
       "image": ""
     },
     {
-      
       "id": 2,
       "question": "Which of the following forces can be applied to a body so as not to cause acceleration of the body?",
       "options": ["6, 7, 15", "20, 5, 12", "7, 16, 8", "9, 10, 12"],
@@ -97,12 +86,9 @@
       "verified_by": "Ronika",
       "image": ""
     }
-  ]
   ],
-  [
   "electrostatics": [
     {
-      
       "id": 1,
       "question": "If a is along the positive Z-axis and \\vec{a}\\times\\vec{b}=0 then b could be",
       "options": ["i+j", "3j", "41"],
@@ -113,7 +99,6 @@
       "image": ""
     },
     {
-      
       "id": 2,
       "question": "Which of the following forces can be applied to a body so as not to cause acceleration of the body?",
       "options": ["6, 7, 15", "20, 5, 12", "7, 16, 8", "9, 10, 12"],
@@ -123,12 +108,9 @@
       "verified_by": "Ronika",
       "image": ""
     }
-  ]
   ],
-  [
   "electricity and magnetism": [
     {
-      
       "id": 1,
       "question": "If a is along the positive Z-axis and \\vec{a}\\times\\vec{b}=0 then b could be",
       "options": ["i+j", "3j", "41"],
@@ -139,7 +121,6 @@
       "image": ""
     },
     {
-     
       "id": 2,
       "question": "Which of the following forces can be applied to a body so as not to cause acceleration of the body?",
       "options": ["6, 7, 15", "20, 5, 12", "7, 16, 8", "9, 10, 12"],
@@ -149,12 +130,9 @@
       "verified_by": "Ronika",
       "image": ""
     }
-  ]
   ],
-  [
   "morden physics": [
     {
-     
       "id": 1,
       "question": "If a is along the positive Z-axis and \\vec{a}\\times\\vec{b}=0 then b could be",
       "options": ["i+j", "3j", "41"],
@@ -165,7 +143,6 @@
       "image": ""
     },
     {
-     
       "id": 2,
       "question": "Which of the following forces can be applied to a body so as not to cause acceleration of the body?",
       "options": ["6, 7, 15", "20, 5, 12", "7, 16, 8", "9, 10, 12"],
@@ -175,6 +152,5 @@
       "verified_by": "Ronika",
       "image": ""
     }
-  ]
   ]
 }
