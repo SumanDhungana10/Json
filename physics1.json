@@ -1,5 +1,5 @@
 {
-  "mechanic": [
+  ["mechanic": [
     {
       "id": 1,
       "question": "If a is along the positive Z-axis and \\vec{a}\\times\\vec{b}=0 then b could be",
@@ -21,8 +21,8 @@
       "verified_by": "Ronika",
       "image": ""
     }
-  ],
-  "heat and thermodynamics": [
+  ],],
+ [ "heat and thermodynamics": [
     {
       
       "id": 1,
@@ -46,6 +46,8 @@
       "image": ""
     }
   ],
+  ],
+  [
   "wave and sound": [
     {
       
@@ -70,6 +72,8 @@
       "image": ""
     }
   ],
+  ],
+  [
   "optics": [
     {
       
@@ -94,6 +98,8 @@
       "image": ""
     }
   ],
+  ],
+  [
   "electrostatics": [
     {
       
@@ -118,6 +124,8 @@
       "image": ""
     }
   ],
+  ],
+  [
   "electricity and magnetism": [
     {
       
@@ -142,6 +150,8 @@
       "image": ""
     }
   ],
+  ],
+  [
   "morden physics": [
     {
      
@@ -165,5 +175,6 @@
       "verified_by": "Ronika",
       "image": ""
     }
+  ],
   ]
 }
