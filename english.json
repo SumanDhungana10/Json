@@ -1,0 +1,1114 @@
+[
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 1,
+    "": "My sister likes ....flowers very much.",
+    "option": ["a", "the", "an", "None"],
+    "ansquestionwer": 4,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 2,
+    "question": "Do not go to visit that lake...Water is filthy.",
+    "option": ["a", "the", "an", "None"],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 3,
+    "question": "The government must think about...unemployed.",
+    "option": ["a", "the", "an", "None"],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 4,
+    "question": "There is a major problem with...crime now a days.",
+    "option": ["a", "the", "an", "None"],
+    "answer": 4,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 5,
+    "question": ".....Philipines is a beautiful country.",
+    "option": ["a", "the", "an", "None"],
+    "answer": 4,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 6,
+    "question": "By the end of the year,I ...my project.",
+    "option": [
+      "complete",
+      "will be completed",
+      " will complete",
+      "will have completed"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 7,
+    "question": "I can't dance because I.....my leg.",
+    "option": ["Have broken", "broke", "Had broken", " break"],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 8,
+    "question": "......I was entering the room, the phone rang with tik tik sound.",
+    "option": ["When", "just as", "at the same time", "since"],
+    "answer": 2,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 9,
+    "question": "It..... just before the war when Colin received a letter from Germany.",
+    "option": ["Had been", "was", "is", "were"],
+    "answer": 2,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 10,
+    "question": " I'm sure, he.... late for the program.",
+    "option": ["is", "will be", "is being", "were"],
+    "answer": 2,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 11,
+    "question": "This time tommorow we.......to Kathmandu.",
+    "option": ["is driving", "will drive", "is being driven", "are driving"],
+    "answer": 4,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 12,
+    "question": "I don't think she can climb the mountain,...?",
+    "option": ["Can she", "will she", "is she", "are she"],
+    "answer": 1,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 13,
+    "question": "So you are going....?",
+    "option": ["aren't you", "are you", "weren't you ", "wiil you"],
+    "answer": 1,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 14,
+    "question": " She ought to work hard,.....?",
+    "option": ["shouldn't she", "oughtn't he", "should she", "mustn't she"],
+    "answer": 1,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 15,
+    "question": "Few people were lucky......?",
+    "option": ["weren't they ", "were they", "didn't they", "mustn't they"],
+    "answer": 1,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 16,
+    "question": "If the sun shines, the children outside.",
+    "option": [
+      "will play ",
+      "would play",
+      "should play",
+      "would have been playing"
+    ],
+    "answer": 1,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 17,
+    "question": "If it had been warmer, we....... swimming.",
+    "option": ["Would have gone", "Will have gone", "Had gone", "gone"],
+    "answer": 1,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 18,
+    "question": "If you...... you will not catch the bus.",
+    "option": [
+      " Do not hurry",
+      "Did not hurry",
+      "Would not hurry",
+      "Will not hurry"
+    ],
+    "answer": 1,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 19,
+    "question": " Without the rain, the crops...",
+    "option": [" will die soon", "Would have died", "will die", "would die"],
+    "answer": 2,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 20,
+    "question": "Buy a bike and it......You a fortune.",
+    "option": ["would cost", "will cost", "would have cost", "had cost"],
+    "answer": 2,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 21,
+    "question": "Unless you buy a ticket, you......... in.",
+    "option": [
+      " would not be allowed",
+      "won't be allowed",
+      "won't have allowed",
+      "are not"
+    ],
+    "answer": 2,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 22,
+    "question": "Come and see us Christmas day.",
+    "option": ["of", "in", "on", "with"],
+    "answer": 3,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 23,
+    "question": "......Smoking, he also has the habit of drinking.",
+    "option": ["Beside", "After", "Before", "Above"],
+    "answer": 1,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 24,
+    "question": "The thief was acquitted...... the charge.",
+    "option": ["Of", "with", "On", "For"],
+    "answer": 1,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 25,
+    "question": "Take it. It is a remedy..... malaria.",
+    "option": ["Of", "with", "On", "For"],
+    "answer": 3,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 26,
+    "question": "My sister is vexed....him for disobeying me.",
+    "option": ["Of", "with", "On", "For"],
+    "answer": 2,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 27,
+    "question": "They grieved my failure.",
+    "option": ["At", "with", "On", "For"],
+    "answer": 1,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 28,
+    "question": "The word 'approximate' has the stress on the...syllable.",
+    "option": ["First", "Second", "Third", "Fourth"],
+    "answer": 2,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 29,
+    "question": "The word 'Sunday' has.....",
+    "option": [
+      "Two vowels and two consonants",
+      "Three vowels and three consonants",
+      "Three vowels and two consonants",
+      "Four vowels and two consonant"
+    ],
+    "answer": 1,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 30,
+    "question": "The word 'population' has the stress on the.",
+    "option": [
+      " First syllable",
+      "third syllable",
+      "Second syllable",
+      "Fourth syllable"
+    ],
+    "answer": 2,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 31,
+    "question": " Which two pronunciation? words have the same",
+    "option": [" Heart: hot", "gun: gone", "beat: bit", " tear: pear"],
+    "answer": 4,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 32,
+    "question": "Slow and steady.... the race.",
+    "option": [" win", "wins", "won", "none"],
+    "answer": 2,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 33,
+    "question": " Everything that glitters.... not gold.",
+    "option": ["is", "are", "were", "have been"],
+    "answer": 1,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 34,
+    "question": "The scenery...... beautiful.",
+    "option": ["is", "are", "were", "have been"],
+    "answer": 1,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 35,
+    "question": "The syllabus for the subject..... been approved.",
+    "option": ["is", "has", "were", "have"],
+    "answer": 2,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 36,
+    "question": " Which is incorrect?",
+    "option": [" Scissors", "tweezers", "force", "pincers"],
+    "answer": 2,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 37,
+    "question": "The gentry Kingdom.... respected in the United.",
+    "option": [" Is", "was", "are", " has been"],
+    "answer": 3,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 38,
+    "question": " You don't need to wind this watch.",
+    "option": [
+      "This watch need not be wound",
+      "This watch doesn't need to be winded",
+      "The watch is needed to be winded",
+      "You don't need this watch to wind"
+    ],
+    "answer": 1,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 39,
+    "question": "Smoking is strictly prohibited in the hospital.",
+    "option": [
+      "They strictly have prohibited smoking in the hospital",
+      "They strictly prohibit smoking in the hospital.",
+      "They are strictly prohibiting smoking in the hospital",
+      "They have strictly prohibited smoking in the hospital"
+    ],
+    "answer": 2,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 40,
+    "question": "He didn't speak a word.",
+    "option": [
+      " No word was spoken..",
+      "The word didn't spoken.",
+      "A word was spoken.",
+      "Any word was spoken."
+    ],
+    "answer": 1,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 41,
+    "question": "The passive form of 'Do we eat sand'? ",
+    "option": [
+      "Is sand eaten?",
+      "Was sand eaten?",
+      "Did we eat sand?",
+      "Sand is eaten"
+    ],
+    "answer": 1,
+    "explanation": ".",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 42,
+    "question": "The passive form of 'People sell fish here' is...",
+    "option": [
+      "Fish was sold here",
+      "Fish is sold here",
+      "Fish is being sold here",
+      "Fish has been sold here"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 43,
+    "question": "Bharat said that he was reading English then. What is the correct transformation?",
+    "option": [
+      "Bharat said, 'He is reading English then.'",
+      "Bharat said, 'I am reading English now.'",
+      "Bharat said to me, 'I am reading English now.'",
+      "Bharat said, 'I was reading English now.'"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 44,
+    "question": "They said, 'Sun rises in East.' What is the correct reported speech?",
+    "option": [
+      "They said that the Sun rises in the East.",
+      "They say that the Sun rose in the East.",
+      "They said that the sun rises in the East.",
+      "They said that the Sun is raised in the East."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 45,
+    "question": "I asked a stranger, 'What can I do for you?'",
+    "option": [
+      "I asked the stranger what I can do for him.",
+      "I asked the stranger what I could do for him.",
+      "I asked the stranger what I could be done for him.",
+      "I asked the stranger what could I do for you."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 46,
+    "question": "She said, 'I did not know the address. Did you?'",
+    "option": [
+      "She said that she did not know the address and asked him if he did.",
+      "She asked that she had not known the address and asked him if he did.",
+      "She asked that she does not know the address and asked him if he does.",
+      "She asked that she had not known the address and asked him if he did."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 47,
+    "question": "He said to me, 'Do not disturb me and get out of my room now.'",
+    "option": [
+      "He forbade me to disturb him and ordered to get out of his room then.",
+      "He asked me not to disturb and get out of his room then.",
+      "He forbade me to disturb him and ordered to get out of my room now.",
+      "He said to me not to disturb me and orders to get out of my room then."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 48,
+    "question": "As soon as we received your message, we heaved a sigh of relief. What is the negative form?",
+    "option": [
+      "As soon as we received your message, we didn't heave a sigh of relief.",
+      "No sooner did we receive your message, than we heaved a sigh of relief.",
+      "No sooner we received your message then we heaved a sigh of relief.",
+      "No sooner had we received the message, then we heaved a sigh of relief."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 49,
+    "question": "Niraj is as clever as Hari. What is the negative form?",
+    "option": [
+      "Niraj isn't so clever as Hari.",
+      "Niraj is not as clever as Hari.",
+      "Niraj is much cleverer than Hari.",
+      "Niraj is also clever."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 50,
+    "question": "None should deny the truth. What is the affirmative form?",
+    "option": [
+      "All should deny the truth.",
+      "Everyone should deny the truth.",
+      "Some of them should deny the truth.",
+      "None of them."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 1,
+    "question": "They adore music, and so do I. What is the correct conjunction?",
+    "option": ["Neither", "So", "Either", "Sure"],
+    "answer": 2,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 51,
+    "question": "Which of the following is incorrectly punctuated?",
+    "option": [
+      "The teacher said, 'Honesty is the best policy.'",
+      "The man received a gift, the women and a book.",
+      "The man, whom he met, had excellent speech.",
+      "He said to me, 'When did she visit Kathmandu?'"
+    ],
+    "answer": 4,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 52,
+    "question": "Which of the following is the prefix of 'Polite'?",
+    "option": ["Im", "Dis", "In", "Un"],
+    "answer": "1",
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika"
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 53,
+    "question": "Which of the following is the prefix of 'Respect'?",
+    "option": ["Un", "Ir", "Dis", "Mis"],
+    "answer": "3",
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika"
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 54,
+    "question": "Which of the following is the prefix of 'Appear'?",
+    "option": ["Dis", "Re", "Un", "both a & b"],
+    "answer": "4",
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika"
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 55,
+    "question": "Which of the following is the prefix of 'Likely'?",
+    "option": ["Im", "Un", "In", "Dis"],
+    "answer": "2",
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika"
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 56,
+    "question": "Which of the following is the prefix of 'Logical'?",
+    "option": ["Ir", "Il", "Re", "Un"],
+    "answer": "2",
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika"
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 57,
+    "question": "Which of the following is the prefix of 'Loyal'?",
+    "option": ["Dis", "Ir", "Mis", "Un"],
+    "answer": "1",
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika"
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 58,
+    "question": "Which of the following is the prefix of 'Inform'?",
+    "option": ["Un", "Pre", "Mis", "Dis"],
+    "answer": "3",
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika"
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 59,
+    "question": "Which of the following is the prefix of 'Historic'?",
+    "option": ["Un", "Dis", "Pre", "Im"],
+    "answer": "3",
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika"
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 61,
+    "question": "Which of the following is the prefix of 'Driver'?",
+    "option": ["Over", "Co", "Mis", "Pre"],
+    "answer": "2",
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika"
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 62,
+    "question": "Replace the underlined phrase: I, you and he are going for the party.",
+    "option": [
+      "I, he and you",
+      "You, I and he",
+      "He, he and you",
+      "You, he and I"
+    ],
+    "answer": 4,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika"
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 63,
+    "question": "Replace the underlined phrase: They, you and we have submitted the test papers.",
+    "option": [
+      "We, you and they",
+      "You, we and you",
+      "You, they and we",
+      "They, we and you"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika"
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 64,
+    "question": "........declare Sunday a holiday.",
+    "option": [
+      "She, the principal",
+      "He, the principal",
+      "I, the principal",
+      "Me, the principal"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika"
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 65,
+    "question": "They ate as many pancakes as...",
+    "option": ["I", "They", "Us", "She"],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika"
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 66,
+    "question": "His mother speaks to....everyday.",
+    "option": ["He", "Him", "They", "She"],
+    "answer": 2,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika"
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 67,
+    "question": "Work hard....you will lose the competition.",
+    "option": ["or", "nor", "as", "though"],
+    "answer": "1",
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 68,
+    "question": "She booked the tick........she heard the sad news.",
+    "option": ["neither", "either", "as soon as", "and"],
+    "answer": "3",
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 69,
+    "question": "Samiksha applied for the refund.........she received the order.",
+    "option": ["where", "as", "when", "as"],
+    "answer": "3",
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 4,
+    "subcategory": 16,
+    "id": 70,
+    "question": "She may lose the job.....she works hard for",
+    "option": ["but", "if", "unless", "whether"],
+    "answer": "3",
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+
+  {
+    "category": 4,
+    "subcategory": 17,
+    "id": 71,
+    "question": "Something that is present everywhere is said to be",
+    "options": ["Scarce", "Ubiquitous", "Limited", "Exclusive"],
+    "answer": 2,
+    "explanation": "",
+    "verified": true,
+    "verifiedby": "Ronika"
+  },
+  {
+    "category": 4,
+    "subcategory": 17,
+    "id": 72,
+    "question": "A voice that is sweet and musical in tone is termed as",
+    "options": ["Harsh", "Mellifluous", "Dissonant", "Jarring"],
+    "answer": 2,
+    "explanation": "",
+    "verified": true,
+    "verifiedby": "Ronika"
+  },
+  {
+    "category": 4,
+    "subcategory": 17,
+    "id": 73,
+    "question": "The highest point or peak is referred to as the",
+    "options": ["Nadir", "Apex", "Zenith", "Pinnacle"],
+    "answer": 3,
+    "explanation": "",
+    "verified": true,
+    "verifiedby": "Ronika"
+  },
+  {
+    "category": 4,
+    "subcategory": 17,
+    "id": 74,
+    "question": "Actions that are wicked, villainous, or heinously evil are termed as",
+    "options": ["Righteous", "Virtuous", "Nefarious", "Benevolent"],
+    "answer": 3,
+    "explanation": "",
+    "verified": true,
+    "verifiedby": "Ronika"
+  },
+  {
+    "category": 4,
+    "subcategory": 17,
+    "id": 75,
+    "question": "Something that is fleeting, transitory, or short-lived is known as",
+    "options": ["Permanent", "Enduring", "Ephemeral", "Everlasting"],
+    "answer": 3,
+    "explanation": "",
+    "verified": true,
+    "verifiedby": "Ronika"
+  },
+  {
+    "category": 4,
+    "subcategory": 17,
+    "id": 76,
+    "question": "The most perfect or typical example of something is considered",
+    "options": ["Atypical", "Exemplary", "Quintessential", "Mediocre"],
+    "answer": 3,
+    "explanation": "",
+    "verified": true,
+    "verifiedby": "Ronika"
+  },
+  {
+    "category": 4,
+    "subcategory": 17,
+    "id": 77,
+    "question": "Something that is harmful, destructive, or deadly is described as",
+    "options": ["Benign", "Salubrious", "Pernicious", "Beneficial"],
+    "answer": 3,
+    "explanation": "",
+    "verified": true,
+    "verifiedby": "Ronika"
+  },
+  {
+    "category": 4,
+    "subcategory": 17,
+    "id": 78,
+    "question": "To deliberately make something unclear or difficult to understand is to",
+    "options": ["Clarify", "Illuminate", "Obfuscate", "Simplify"],
+    "answer": 3,
+    "explanation": "",
+    "verified": true,
+    "verifiedby": "Ronika"
+  },
+  {
+    "category": 4,
+    "subcategory": 17,
+    "id": 79,
+    "question": "Finding something good without actually looking for it is known as",
+    "options": ["Accidental", "Fortunate", "Serendipity", "Coincidence"],
+    "answer": 3,
+    "explanation": "",
+    "verified": true,
+    "verifiedby": "Ronika"
+  },
+  {
+    "category": 4,
+    "subcategory": 17,
+    "id": 80,
+    "question": "Feeling sluggish and lacking energy is described as being",
+    "options": ["Lethargic", "Energetic", "Dynamic", "Vivacious"],
+    "answer": 1,
+    "explanation": "",
+    "verified": true,
+    "verifiedby": "Ronika"
+  },
+  {
+    "category": 4,
+    "subcategory": 17,
+    "id": 95,
+    "question": "The sentence 'shut your mouth' has normally a ...intonation.",
+    "options": ["Falling and rising", "Rising"],
+    "answer": "1",
+    "verified": true,
+    "verifiedby": "Ronika"
+  },
+  {
+    "category": 4,
+    "subcategory": 17,
+    "id": 96,
+    "question": "We normally use a yes/no question. Intonation for a...",
+    "options": ["Fall-rise", "Falling", "Rise-fall", "Rising"],
+    "answer": "3",
+    "verified": true,
+    "verifiedby": "Ronika"
+  },
+  {
+    "category": 4,
+    "subcategory": 17,
+    "id": 97,
+    "question": "For strong commands, we use a intonation, if the exclamation is questioning.",
+    "options": ["Rising", "Rising & falling", "Falling", "Falling & rising"],
+    "answer": "2",
+    "verified": true,
+    "verifiedby": "Ronika"
+  },
+  {
+    "category": 4,
+    "subcategory": 17,
+    "id": 98,
+    "question": "The sentence 'Good night' has a.....intonation.",
+    "options": ["Rising-falling", "Falling and rising", "Falling", "Rising"],
+    "answer": "3",
+    "verified": true,
+    "verifiedby": "Ronika"
+  },
+  {
+    "category": 4,
+    "subcategory": 17,
+    "id": 99,
+    "question": "'He will come tomorrow?' This sentence carries a ........intonation. 'This sentence",
+    "options": ["Rising", "Falling and rising", "Falling", "Rising & rising"],
+    "answer": "1",
+    "verified": true,
+    "verifiedby": "Ronika"
+  },
+  {
+    "category": 4,
+    "subcategory": 17,
+    "id": 99,
+    "question": "The word 'addict' has the syllable structure.",
+    "options": ["VCVCC", "VCCVC", "VCVCCC", "VCVC"],
+    "answer": "1",
+    "verified": true,
+    "verifiedby": "Ronika"
+  }
+]

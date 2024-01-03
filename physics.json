@@ -1,0 +1,1595 @@
+[
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 1,
+    "question": "If a is along the positive Z-axis and \\vec{a}\\times\\vec{b}=0 then b could be",
+    "options": ["i+j", "3j", "41"],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 2,
+    "question": "Which of the following forces can be applied to a body so as not to cause acceleration of the body?",
+    "options": ["6, 7, 15", "20, 5, 12", "7, 16, 8", "9, 10, 12"],
+    "answer": 2,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 3,
+    "question": "The component of a vector is",
+    "options": [
+      "Always less than its magnitude",
+      "Always greater than its magnitude",
+      "Always equal to its magnitude",
+      "None of these"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 4,
+    "question": "Sun appears to move from east to west around the earth. This means that the earth rotates from",
+    "options": [
+      "west to east",
+      "east to west",
+      "north to south",
+      "west to north"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 5,
+    "question": "A car is moving on a road and rain is falling vertically. Select the correct answer.",
+    "options": [
+      "the rain will strike the windscreen only",
+      "the rain will strike the front screen only",
+      "the rain will strike both the screens",
+      "the rain will not strike any of the screens"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 6,
+    "question": "If a man is running in the North direction while his child is running in the east direction at the same speed, then the relative velocity of the man with respect to the child will be in",
+    "options": [
+      "south-east direction",
+      "north-west direction",
+      "east direction",
+      "south-west direction"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 7,
+    "question": "A river is flowing west to east at a speed of 5m/min. A man on the south bank of the river capable of swimming at 10m/min in still water wants to swim across the river by the shortest path. He would swim in the direction",
+    "options": [
+      "due north",
+      "30° east of north",
+      "60° east of north",
+      "50° west of north"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 8,
+    "question": "In projectile motion, the velocity",
+    "options": [
+      "is always perpendicular to the acceleration",
+      "is never perpendicular to the acceleration",
+      "is perpendicular to the acceleration for one instant only",
+      "is perpendicular to the acceleration for two instants"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 9,
+    "question": "Two bullets are fired simultaneously horizontally and with two different speeds from the same place. Which bullet will hit the ground first?",
+    "options": [
+      "the faster one",
+      "the slower one",
+      "both will reach simultaneously",
+      "depends on the masses"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 10,
+    "question": "A ball is thrown horizontally from the top of a tower. The horizontal component of its velocity will",
+    "options": [
+      "decrease",
+      "increase",
+      "remain unchanged",
+      "first increase and then decrease"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 11,
+    "question": "The maximum height attained by the projectile does not depend on",
+    "options": [
+      "magnitude of initial velocity",
+      "angle of projection",
+      "mass of projectile",
+      "acceleration of projectile"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 12,
+    "question": "A car accelerates on a horizontal road due to the force exerted by",
+    "options": [
+      "the engine of the car",
+      "the driver of the car",
+      "the earth",
+      "the road"
+    ],
+    "answer": 4,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 13,
+    "question": "Two objects A and B are thrown upwards simultaneously with the same speed. The mass of A is greater than the mass of B. Suppose the air exerts a constant and equal force of resistance on the two bodies",
+    "options": [
+      "the two bodies will reach at the same height",
+      "A will go higher than B",
+      "B will go higher than A",
+      "Any of these may happen depending on the speed with which the objects are thrown"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 14,
+    "question": "A force F1 acts on a particle so as to accelerate it from rest to a velocity v. The force F1 is then replaced by F2 which decelerates it to rest.",
+    "options": [
+      "F1 must be equal to F2",
+      "F1 may be equal to F2",
+      "F1 must be unequal to F2",
+      "none of these"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 15,
+    "question": "A cold coke bottle is kept on a balance. When the bottle is opened, then the reading of weight on the balance",
+    "options": [
+      "increases",
+      "decreases",
+      "first increases then decreases",
+      "remains the same"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 16,
+    "question": "A particle is moving with constant speed along a straight line path. A force is not required to",
+    "options": [
+      "increase its speed",
+      "decrease its speed",
+      "change the momentum",
+      "keep it moving with constant velocity"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 17,
+    "question": "A force of 10N displaces an object by 10m. If the work done is 50J, then the direction of the force makes an angle with the direction of displacement",
+    "options": ["30°", "45°", "90°", "0°"],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 18,
+    "question": "A bullet is shot from a rifle. As a result, the rifle recoils. The K.E. of the rifle as compared to that of the bullet is",
+    "options": ["equal", "greater", "less", "none"],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 19,
+    "question": "A bullet is fired into a block. Its K.E. reduces by 50% in penetrating the block through 9cm. What is the total distance penetrated by the bullet?",
+    "options": ["10cm", "12cm", "15cm", "18cm"],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 20,
+    "question": "A car accelerated from rest to a speed of 10m/s spends energy E. If we accelerate the car from 10m/s to 20m/s, the energy spent is",
+    "options": ["E", "2E", "4E", "15cm"],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 21,
+    "question": "If the centripetal force acting on a particle becomes zero, then the particle",
+    "options": [
+      "moves towards the center along the radius",
+      "flies off tangentially",
+      "moves in a vertical circular motion",
+      "remains moving in the same path"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 22,
+    "question": "What happens to centripetal acceleration if speed is doubled",
+    "options": [
+      "ac remains the same",
+      "ac is quadrupled",
+      "ac is doubled",
+      "ac is one-fourth"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 23,
+    "question": "When a particle is rotating in a vertical circle, Tension is",
+    "options": [
+      "maximum at the lowest position and minimum at the highest point",
+      "minimum at the lowest point and maximum at the highest point",
+      "equal at all points",
+      "none of the above"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 24,
+    "question": "A particle is kept fixed on a turntable rotating uniformly. As seen from the ground, the particle goes in a circle. Its speed is 20 cm/s and acceleration is 20 m/s². The particle now shifted to a new position to make the radius half of the original value. The new values of the speed and acceleration will be",
+    "options": [
+      "10 cm/s, 10 cm/s²",
+      "40 cm/s, 10 cm/s²",
+      "10 cm/s, 20 cm/s²",
+      "40 cm/s, 40 cm/s²"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 25,
+    "question": "The gravitational force between two masses is proportional to",
+    "options": [
+      "the product of their masses and the square of the distance between their centers",
+      "the sum of their masses and the inverse of the square of the distance between their centers",
+      "the difference of their masses and the cube of the distance between their centers",
+      "the ratio of their masses and the distance between their centers"
+    ],
+    "answer": 4,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 26,
+    "question": "Escape velocity from Earth depends on",
+    "options": [
+      "mass of the object only",
+      "radius of the Earth only",
+      "both mass of the object and radius of the Earth",
+      "neither mass of the object nor radius of the Earth"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 27,
+    "question": "The weight of an object is least at",
+    "options": [
+      "the top of a mountain",
+      "the bottom of a valley",
+      "the North Pole",
+      "the Equator"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 28,
+    "question": "Which of the following statements about gravitational potential energy is correct?",
+    "options": [
+      "It is a scalar quantity",
+      "It is always negative",
+      "It is directly proportional to the mass of the object",
+      "It is inversely proportional to the square of the distance from the center of the Earth"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 29,
+    "question": "The time period of a pendulum is T. This is now replaced by another bob of the same radius but a different mass. The new period will be",
+    "options": ["greater than T", "less than T", "zero", "remains the same"],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 30,
+    "question": "Which of the following will change the time period as they are taken to the moon?",
+    "options": [
+      "simple pendulum",
+      "physical pendulum",
+      "a torsional pendulum",
+      "a spring-mass system"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 31,
+    "question": "A spring-mass system oscillates with a frequency f. If it is taken in an elevator slowly accelerating upward, the frequency will",
+    "options": ["increase", "decrease", "remain the same", "become zero"],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 32,
+    "question": "Suppose a tunnel is dug along a diameter of the earth. A particle is dropped from a point, a distance h directly above the tunnel. The motion of the particle as seen from the earth is",
+    "options": [
+      "simple harmonic",
+      "parabolic",
+      "on a straight line",
+      "periodic"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 33,
+    "question": "A particle executes simple harmonic motion with a frequency f. The frequency with which kinetic energy oscillates is",
+    "options": ["1/2", "f", "2f", "0"],
+    "answer": 4,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 34,
+    "question": "The pressure at a point in a fluid at rest depends on",
+    "options": [
+      "density of the fluid",
+      "acceleration due to gravity",
+      "depth below the surface",
+      "all of the above"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 35,
+    "question": "The pressure at a point in a fluid at rest depends on",
+    "options": [
+      "density of the fluid",
+      "acceleration due to gravity",
+      "depth below the surface",
+      "all of the above"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 36,
+    "question": "The time period of a pendulum is T. This is now replaced by another bob of the same radius but a different mass. The new period will be",
+    "options": ["greater than T", "less than T", "zero", "remains the same"],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 37,
+    "question": "If more air is pushed into a soap bubble, the pressure in it",
+    "options": ["decreases", "increases", "becomes zero", "remains the same"],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 38,
+    "question": "The dimension ML⁻¹T⁻² can correspond to",
+    "options": [
+      "moment of force",
+      "surface tension",
+      "modulus of elasticity",
+      "coefficient of viscosity"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 38,
+    "question": "Liquid drops assume a spherical shape due to",
+    "options": [
+      "density",
+      "surface tension",
+      "force of gravity",
+      "adhesive force"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 39,
+    "question": "When a fluid is flowing through a pipe, the pressure is highest",
+    "options": [
+      "at the beginning of the pipe",
+      "at the end of the pipe",
+      "in the middle of the pipe",
+      "pressure is the same throughout"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 40,
+    "question": "The coefficient of viscosity of water at 20°C is approximately",
+    "options": ["0.001 Ns/m²", "0.01 Ns/m²", "0.1 Ns/m²", "1 Ns/m²"],
+    "answer": 2,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 41,
+    "question": "Which of the following statements about terminal velocity is correct?",
+    "options": [
+      "Terminal velocity is zero.",
+      "Terminal velocity is constant.",
+      "Terminal velocity decreases with time.",
+      "Terminal velocity increases with the mass of the falling object."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 42,
+    "question": "A car moving with a constant speed on a straight road has",
+    "options": [
+      "zero acceleration",
+      "non-zero acceleration",
+      "constant acceleration",
+      "decreasing acceleration"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 43,
+    "question": "The force acting on a particle moving in a circular path with constant speed is directed",
+    "options": [
+      "towards the center of the circle",
+      "opposite to the direction of motion",
+      "in the direction of motion",
+      "perpendicular to the plane of motion"
+    ],
+    "answer": 4,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 44,
+    "question": "According to Hooke's law, if stress is increased, the ratio of stress to strain",
+    "options": ["increases", "remains constant", "decreases", "becomes zero"],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 45,
+    "question": "The value of shear modulus for a perfectly rigid cone is",
+    "options": ["infinite", "finite", "zero", "finite but less than one"],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 46,
+    "question": "According to Hooke's law, if stress is increased, the ratio of stress to strain",
+    "options": ["remains constant", "increases", "decreases", "becomes zero"],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 6,
+    "id": 47,
+    "question": "The value of Bulk's modulus for a perfectly rigid cone is",
+    "options": ["infinite", "finite", "zero", "finite but less than one"],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 7,
+    "id": 48,
+    "question": "The value of Bulk's modulus for a perfectly rigid cone is",
+    "options": ["infinite", "finite", "zero", "finite but less than one"],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 7,
+    "id": 49,
+    "question": "On heating a liquid of cubical expansion α in a container having linear expansion, the level of liquid in the container will",
+    "options": ["rise", "fall", "remains almost stationary", "unpredictable"],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 7,
+    "id": 50,
+    "question": "When a column of mercury in a glass tube is heated, the length of the mercury column",
+    "options": [
+      "descends continuously",
+      "ascends continuously",
+      "First ascends and then descends",
+      "First descends and then ascends"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 7,
+    "id": 51,
+    "question": "Consider the following statements. A. The coefficient of linear expansion has dimension K⁻¹ B. The coefficient of volume expansion has dimension K a. A and B are both correct b. A is correct but B is wrong c. B is correct but B is wrong d. A and B both are wrong",
+    "options": [
+      "A and B are both correct",
+      "A is correct but B is wrong",
+      "B is correct but B is wrong",
+      "A and B both are wrong"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 7,
+    "id": 52,
+    "question": "The specific heat capacity of a body depends on",
+    "options": [
+      "The heat given",
+      "the temperature raised",
+      "mass of body",
+      "material of body"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 7,
+    "id": 53,
+    "question": "The heat capacity of a body depends on",
+    "options": [
+      "Temperature raise",
+      "mass of the body",
+      "material of the body",
+      "both b and b"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 7,
+    "id": 54,
+    "question": "The amount of heat required to raise the temperature of 1kg water through 1°C is called",
+    "options": ["kilocalorie", "calorie", "Joule", "Calorie / °C"],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 7,
+    "id": 55,
+    "question": "Some quantity of tap water is placed in an open path and allowed to evaporate. After some time the temperature of water",
+    "options": [
+      "decrease slightly",
+      "increases slightly",
+      "remains the same",
+      "increases considerably"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 7,
+    "id": 56,
+    "question": "A closed bottle containing water at 30°C is carried to the moon in a spaceship. If it is placed on the surface of the moon, what will happen to the water as soon as the lid is opened?",
+    "options": [
+      "the water will freeze",
+      "water will boil",
+      "it will decompose into H₂ and O₂",
+      "nothing will happen"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 7,
+    "id": 57,
+    "question": "In a pressure cooker, the cooking is fast because",
+    "options": [
+      "the boiling point of water is raised by the increase pressure inside the cooker",
+      "the boiling point of water is lowered by the increase pressure inside",
+      "more steam is available to cook the food at 100°C.",
+      "more pressure is available to cook the food at 100°C."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 7,
+    "id": 58,
+    "question": "Molecules of gas behave",
+    "options": [
+      "as rigid elastic spheres",
+      "as inelastic rigid spheres",
+      "as inelastic non-rigid spheres",
+      "perfectly elastic non-rigid spheres"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 7,
+    "id": 59,
+    "question": "The average velocity of the molecules in a gas in equilibrium is",
+    "options": [
+      "proportional to VT",
+      "proportional to T",
+      "proportional to T²",
+      "equal to Zero"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 7,
+    "id": 60,
+    "question": "The average speed of the gas molecules in equilibrium is",
+    "options": [
+      "proportional to √T",
+      "proportional to T",
+      "proportional to T²",
+      "equal to Zero"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 7,
+    "id": 61,
+    "question": "In an ideal gas, the molecules possess",
+    "options": [
+      "only kinetic energy",
+      "only potential energy",
+      "kinetic energy and potential energy",
+      "only gravitational energy"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 7,
+    "id": 62,
+    "question": "The temperature of a gas is a measure of",
+    "options": [
+      "the average kinetic energy of the gaseous molecules",
+      "the average potential energy of the gaseous molecules",
+      "the average distance between the molecules of the gas",
+      "the size of molecules of the gas"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 7,
+    "id": 63,
+    "question": "By which of the following methods does a cup of hot tea lose heat when placed on a metal table in a room?",
+    "options": ["conduction", "convection", "radiation", "all of the above"],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 7,
+    "id": 64,
+    "question": "When radiation is passing through a transparent medium, then",
+    "options": [
+      "the temperature of the medium increases",
+      "the temperature of the medium decreases",
+      "the temperature of the medium does not change",
+      "the temperature of the medium first increases and then becomes steady"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 7,
+    "id": 65,
+    "question": "A sphere, a cube, and a thin circular plate all made up of the same material and having the same mass are heated to the temperature of 200°C. When these are left in a room:",
+    "options": [
+      "The sphere reaches room temperature last",
+      "The cube reaches room temperature last",
+      "The circular plate reaches room temperature last",
+      "All will reach room temperature simultaneously"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 7,
+    "id": 66,
+    "question": "A black body does not",
+    "options": [
+      "emit radiation",
+      "absorb radiation",
+      "reflect radiation",
+      "both a and b"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 9,
+    "id": 67,
+    "question": "The process of splitting white light into seven different colors is known as",
+    "options": ["refraction", "dispersion", "scattering", "reflection"],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 9,
+    "id": 68,
+    "question": "When white light passes through a prism, it splits into seven colors, which is known as the dispersion of light. So after coming out of a prism, which color of light scatters the least?",
+    "options": ["red", "violet", "blue", "green"],
+    "answer": 0,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 9,
+    "id": 69,
+    "question": "The sky is blue because of",
+    "options": ["dispersion", "refraction", "reflection", "scattering"],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 9,
+    "id": 70,
+    "question": "Which color of light is maximum deviated when passed through a prism?",
+    "options": ["red", "violet", "blue", "green"],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 9,
+    "id": 71,
+    "question": "Which of the following light will have the maximum refractive index among the given options?",
+    "options": ["red", "indigo", "violet", "green"],
+    "answer": 2,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 9,
+    "id": 72,
+    "question": "The dispersive power of a prism depends upon",
+    "options": [
+      "the shape of the prism",
+      "the material of the prism",
+      "the angle of the prism",
+      "height of the prism"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 9,
+    "id": 73,
+    "question": "What is the minimum and maximum distance for clear vision of a healthy eye?",
+    "options": [
+      " 100 cm and 500 cm",
+      " Infinite and 25 cm",
+      " 25 cm and 100 cm",
+      " 25 cm and infinite"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 9,
+    "id": 74,
+    "question": "A person can see clearly up to a distance of 25 cm. What kind of lens does he require for his spectacles, and what must be the power?",
+    "options": [
+      " Concave, -1D",
+      " Convex, +1D",
+      " Concave, -2D",
+      "Convex, +2D"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 9,
+    "id": 75,
+    "question": "A person cannot see objects beyond 50 cm. What is the power of the lens required to correct this vision?",
+    "options": [" +2D", " -2D", " +5D", " 0.5D"],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 8,
+    "id": 76,
+    "question": "In resonating air column, the waves produced are:",
+    "options": [
+      " Stationary longitudinal waves",
+      " Stationary transverse waves",
+      " Transverse progressive waves",
+      " Longitudinal progressive waves"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 8,
+    "id": 77,
+    "question": "In a stationary wave, the particle velocity at nodal points is:",
+    "options": [
+      " Zero",
+      " Maximum and finite",
+      " Minimum and non-zero",
+      " Infinity"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 8,
+    "id": 78,
+    "question": "As an empty vessel is filled with water, its frequency:",
+    "options": [" Increases", " Decreases", " Unchanged", " None of these"],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 8,
+    "id": 79,
+    "question": "With an increase in temperature, the frequency of sound wave from an organ pipe:",
+    "options": [
+      " Increases",
+      " Decreases",
+      " Remains unchanged",
+      " Changes drastically"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 8,
+    "id": 80,
+    "question": "A flute is:",
+    "options": [
+      " Closed organ pipe",
+      " An open organ pipe",
+      "Combination of two open organ pipes",
+      "Combination of two closed organ pipes"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 8,
+    "id": 81,
+    "question": "The apparent frequency noted by a moving listener away from the stationary source is 10% less than the real frequency. If the velocity of sound is 330 m/s, the velocity of the listener is:",
+    "options": [" 16.5 m/s", " 8.25 m/s", " 33 m/s", " 66 m/s"],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 8,
+    "id": 82,
+    "question": "The frequency of sound emitted by a source appears to rise to 1.7 times the original value when it approaches a stationary observer. If v = 340 m/s, the speed of the source is:",
+    "options": [" 110 m/s", " 100 m/s", " 140 m/s", " 200 m/s"],
+    "answer": 0,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 8,
+    "id": 83,
+    "question": "A man is watching two trains, one leaving and the other coming towards him with equal speed of 4 m/s. If they sound their whistles each of natural frequency 240 Hz, the number of beats heard will be:",
+    "options": [" 4", " 12", " 8", " Zero"],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 11,
+    "id": 84,
+    "question": "In nature, the electric charge of any system is always equal to:",
+    "options": [
+      " Half of the integral multiple of the least amount of charge",
+      " Zero",
+      " 10 × 10^19 C",
+      " Integral multiple of the least amount of charge"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 11,
+    "id": 85,
+    "question": "Consider a neutral conducting sphere. A positive point charge is placed outside the sphere. The net charge on the sphere is then:",
+    "options": [
+      " Negative and distributed uniformly over its surface",
+      " Negative and appears only at the point on the sphere closest to the point charge",
+      " Negative and distributed non-uniformly over its surface",
+      " Can't be said"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 11,
+    "id": 86,
+    "question": "If a body is given a negative charge, then its mass:",
+    "options": [
+      " Increases",
+      " Decreases",
+      " Can't be said",
+      " Remains unchanged"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 10,
+    "id": 87,
+    "question": "If we increase the distance between two charges, the capacitance will:",
+    "options": [
+      " Increase",
+      " Decrease",
+      " Remain the same",
+      " First increase and then decrease"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 10,
+    "id": 88,
+    "question": "A capacitor of 20 µF and charged to 500 volts is connected in parallel with another capacitor of 10 µF and charged to 200 volts. The common potential is:",
+    "options": [" 200 volts", " 300 volts", " 400 volts", " 500 volts"],
+    "answer": 2,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 10,
+    "id": 89,
+    "question": "Three capacitors of capacitance each 6 µF are available. The minimum and maximum capacitances which can be obtained are:",
+    "options": [" 6 µF, 18 µF", " 2 µF, 18 µF", " 3 µF, 12 µF", " 2 µF, 12 µF"],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 11,
+    "id": 90,
+    "question": "The product of resistivity and conductivity of a cylindrical conductor depends upon:",
+    "options": [
+      "Temperature",
+      "Material",
+      "Area of cross-section",
+      "None of these"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 11,
+    "id": 91,
+    "question": "As the temperature of a metallic resistor is increased, the product of its resistivity and conductivity:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains constant",
+      "May increase or decrease"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 11,
+    "id": 92,
+    "question": "A resistor of resistance R is connected to an ideal battery. If the value of R is decreased, the power dissipated in the resistor will:",
+    "options": ["Increase", "Decrease", "Remain unchanged", "None"],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 11,
+    "id": 93,
+    "question": "A wire of resistance 12 Ω in the form of a circle. The resistance between the ends of any diameter is:",
+    "options": ["32", "62", "92", "122"],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 11,
+    "id": 94,
+    "question": "Three resistors each of 4 Ω are connected to form a triangle. The resistance between any two terminals is:",
+    "options": ["12", "20", "60", "8√3 Ω"],
+    "answer": 2,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 12,
+    "id": 95,
+    "question": "The work function for the photoelectric effect:",
+    "options": [
+      "Depends on the frequency of incident light",
+      "Is the same for all metals",
+      "Is different for different metals",
+      "None of these"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 12,
+    "id": 96,
+    "question": "Which of the following phenomena supports the particle nature of light?",
+    "options": [
+      "Interference",
+      "Polarization",
+      "Diffraction",
+      "Photoelectric effect"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 12,
+    "id": 97,
+    "question": "Which of the following phenomena supports the particle nature of light?",
+    "options": [
+      "Interference",
+      "Polarization",
+      "Diffraction",
+      "Photoelectric effect"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": 12,
+    "id": 98,
+    "question": "The dynamic mass of a photon is:",
+    "options": ["Zero", "hf", "∞", "hf/c^2"],
+    "answer": 4,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": "Semiconductors",
+    "id": 99,
+    "question": "On increasing the temperature, the specific resistance of semiconductor:",
+    "options": [
+      " Increases",
+      " Decreases",
+      " Doesn't change",
+      " First decreases and then increases"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": "Semiconductors",
+    "id": 100,
+    "question": "Platinum and silicon are cooled after heating up to 25°C then:",
+    "options": [
+      " Resistance of platinum will increase, and that of silicon decreases",
+      " Resistance of silicon will increase, and that of platinum decreases",
+      " Resistance of both will decrease",
+      " Resistance of both increases"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": "Semiconductors",
+    "id": 101,
+    "question": "Electric conduction in a semiconductor takes place due to:",
+    "options": [
+      " Electrons only",
+      " Holes only",
+      " Both electrons and holes",
+      " Neither electrons nor holes"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": "Semiconductors",
+    "id": 102,
+    "question": "Electric conduction in a semiconductor takes place due to:",
+    "options": [
+      "a. Electrons only",
+      "b. Holes only",
+      "c. Both electrons and holes",
+      "d. Neither electrons nor holes"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  },
+  {
+    "category": 2,
+    "subcategory": "Semiconductors",
+    "id": 103,
+    "question": "Let np and ne be the numbers of holes and conduction electrons in a p-type semiconductor. A p-type semiconductor is:",
+    "options": [
+      "a. Positively charged",
+      "b. Negatively charged",
+      "c. Neutral",
+      "d. None"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "isVerified": true,
+    "verified_by": "Ronika",
+    "image": ""
+  }
+]

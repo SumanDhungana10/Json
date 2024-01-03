@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "category": 1,
+    "subcategory": "algebra",
+    "image": ""
+  },
+  {
+    "id": 2,
+    "category": 1,
+    "subcategory": "trigonometry",
+    "image": ""
+  },
+  {
+    "id": 3,
+    "category": 1,
+    "subcategory": "co-ordinate_geometry",
+    "image": ""
+  },
+  {
+    "id": 4,
+    "category": 1,
+    "subcategory": "calculus",
+    "image": ""
+  },
+  {
+    "id": 5,
+    "category": 1,
+    "subcategory": "vector",
+    "image": ""
+  },
+  {
+    "id": 6,
+    "category": 2,
+    "subcategory": "mechanics",
+    "image": ""
+  },
+  {
+    "id": 7,
+    "category": 2,
+    "subcategory": "heat and thermodynamics",
+    "image": ""
+  },
+  {
+    "id": 8,
+    "category": 2,
+    "subcategory": "wave and sound",
+    "image": ""
+  },
+  {
+    "id": 9,
+    "category": 2,
+    "subcategory": "optics",
+    "image": ""
+  },
+  {
+    "id": 10,
+    "category": 2,
+    "subcategory": "electrostatics",
+    "image": ""
+  },
+  {
+    "id": 11,
+    "category": 2,
+    "subcategory": "electricity and magnetism",
+    "image": ""
+  },
+  {
+    "id": 12,
+    "category": 2,
+    "subcategory": "morden physics",
+    "image": ""
+  },
+  {
+    "id": 13,
+    "category": 3,
+    "subcategory": "physical chemistry",
+    "image": ""
+  },
+  {
+    "id": 14,
+    "category": 3,
+    "subcategory": "inorganic chemistry",
+    "image": ""
+  },
+  {
+    "id": 15,
+    "category": 3,
+    "subcategory": "organic chemistry",
+    "image": ""
+  },
+  {
+    "id": 16,
+    "category": 4,
+    "subcategory": "grammer",
+    "image": ""
+  },
+  {
+    "id": 17,
+    "category": 4,
+    "subcategory": "synonym and antonym",
+    "image": ""
+  },
+  {
+    "id": 18,
+    "category": 5,
+    "subcategory": "general it",
+    "image": ""
+  }
+]
