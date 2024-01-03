@@ -28,5 +28,11 @@
     "name": "computer",
     "description": "",
     "image": "https://cdn-icons-png.flaticon.com/512/4882/4882992.png"
-  }
+  },
+  {
+    "id": 6,
+    "name": "model",
+    "description": "",
+    "image": "https://cdn-icons-png.flaticon.com/512/4542/4542505.png"
+
 ]
