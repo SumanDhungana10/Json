@@ -1,0 +1,26 @@
+{
+  "introduction to computer": {
+    "icon": "https://cdn-icons-png.flaticon.com/512/1631/1631280.png",
+    "questions": []
+  },
+  "computer fundamental": {
+    "icon": "https://cdn-icons-png.flaticon.com/512/6813/6813621.png",
+    "questions": []
+  },
+  "history of it": {
+    "icon": "https://cdn-icons-png.flaticon.com/512/6813/6813617.png",
+    "questions": []
+  },
+  "cyber security": {
+    "icon": "https://cdn-icons-png.flaticon.com/512/9803/9803085.png",
+    "questions": []
+  },
+  "operating system": {
+    "icon": "https://cdn-icons-png.flaticon.com/512/1036/1036401.png",
+    "questions": []
+  },
+  "memory": {
+    "icon": "https://cdn-icons-png.flaticon.com/512/1036/1036401.png",
+    "questions": []
+  }
+}
