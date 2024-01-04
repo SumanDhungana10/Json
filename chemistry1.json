@@ -1,0 +1,1256 @@
+{
+  "physical chemistry": {
+    "icon": "https://cdn-icons-png.flaticon.com/512/1631/1631280.png",
+    "questions": [
+      {
+        "id": 1,
+        "question": "The radius of the atomic nucleus is of the order of",
+        "options": ["10^{-10} cm", "10^{-8} cm", "10^{-15} cm", "10^{-13} cm"],
+        "answer": 3,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 2,
+        "question": "The electronic configuration of copper atom is",
+        "options": [
+          "1s^{2}2s^{2}2p^{5} 3s2 3p^{6}3d^{2}4s^{2}",
+          "1s^{2}2s^{2}2p^{6}3s^{2}3p^{6}3d^{10}4s^{1}",
+          "1s^{2}2s^{2}2p^{6}3s^{2} 3p^{6}3d^{9}4s^{2}",
+          "1s^{2}2s^{2}2p^{6}3s^{2}3p^{6}3d^{2}4s^{1}4p^{1}"
+        ],
+        "answer": 3,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 3,
+        "question": "The electronic energy levels of the hydrogen atom in Bohr's theory are called",
+        "options": ["Orbitals", "Orbits", "Rydberg's level", "Ground state"],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 4,
+        "question": "The size of the nucleus is measured in",
+        "options": ["amu", "Permi", "Angstrom", "cm"],
+        "answer": 3,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 5,
+        "question": "Who among the following scientists discovered neutrons?",
+        "options": ["Mosley", "J.J. Thomson", "Neil Bohr", "Chadwick"],
+        "answer": 4,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 6,
+        "question": "Different lines in Lyman series of the hydrogen spectrum lie in",
+        "options": ["Ultraviolet", "Visible", "Infrared", "Far infrared"],
+        "answer": 1,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 7,
+        "question": "In the n^{th} electronic shell, the number of subshells is",
+        "options": ["n^{2}", "2n", "n", "2n^{2}"],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 8,
+        "question": "The maximum number of electrons which each subshell can occupy is",
+        "options": ["2n^{2}", "(2l + 1)", "2n", "(2l + 1)"],
+        "answer": 4,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 9,
+        "question": "Transition from n=3, 4, 5 to n=2 gives rise to",
+        "options": [
+          "Panchen series",
+          "Balmer series",
+          "Lyman series",
+          "Bracket series"
+        ],
+        "answer": 3,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 10,
+        "question": "The statement that is not correct for the periodic classification of elements is:",
+        "options": [
+          "The properties of the elements are the periodic function of their atomic numbers.",
+          "Non-metallic elements are lesser in number than metallic elements.",
+          "The first ionization energies along a period do not vary in a regular manner with the increase in atomic number.",
+          "For transition elements, the d-shell is filled with electrons monotonically with an increase in atomic number."
+        ],
+        "answer": 3,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 11,
+        "question": "The electronegativity of the following elements increases in the order",
+        "options": ["C, N, Si, P", "N, Si, C, P", "Si, P, C, N", "P, Si, N, C"],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 12,
+        "question": "Elements that form anions most readily belong to:",
+        "options": ["Oxygen family", "Nitrogen family"],
+        "answer": 1,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 13,
+        "question": "The process by which the strength of a base is determined by reacting with a known amount (standard solution) of acid in the presence of an indicator is known as",
+        "options": [
+          "a. Acidimetry",
+          "b. Acidimetry and Alkalimetry",
+          "c. Alkalimetry",
+          "d. Titration"
+        ],
+        "answer": 4,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 14,
+        "question": "Which of the following is not a primary standard substance?",
+        "options": ["a. Oxalic acid", "b. KMnO4", "c. K2Cr2O7", "d. Na2CO3"],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 15,
+        "question": "A standard solution is",
+        "options": [
+          "a. Solution whose concentration is known",
+          "b. Solution whose concentration is to be calculated",
+          "c. Solution with high acid strength",
+          "d. Solution with high basic strength"
+        ],
+        "answer": 1,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 16,
+        "question": "Decinormal solution is",
+        "options": [
+          "a. 0.1 N solution",
+          "b. 0.01 N solution",
+          "c. 0.5 N solution",
+          "d. 0.1 M solution"
+        ],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 17,
+        "question": "Molarity is",
+        "options": [
+          "a. No. of gram equivalent of solute dissolved in a litre of solution",
+          "b. No. of moles of solute dissolved in 1 kg of solution",
+          "c. No. of gram equivalent of solute dissolved in 1 kg of solution",
+          "d. No. of moles of solute dissolved in a liter of solution"
+        ],
+        "answer": 1,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+
+      {
+        "id": 18,
+        "question": "The structure of BF3 is",
+        "options": ["Linear", "Trigonal planar", "Tetrahedral", "Angular"],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 19,
+        "question": "Which of the following does not have the hydrogen bond?",
+        "options": ["Phenol", "Water", "Liquid NH3", "Liquid HCl"],
+        "answer": 4,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 20,
+        "question": "Which of the following is an electron-deficient compound?",
+        "options": ["HCl", "DBCl", "NH3", "PCl3"],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 21,
+        "question": "When a neutral atom is converted into a cation, its",
+        "options": [
+          "Atomic weight increases",
+          "Atomic weight decreases",
+          "Size increases",
+          "Size decreases"
+        ],
+        "answer": 4,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 22,
+        "question": "Choose the incorrect statement. Hydrogen bonding results in",
+        "options": [
+          "Increase solubility in water",
+          "High van-der-Waals force",
+          "Molecular association",
+          "Abnormal boiling point"
+        ],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 23,
+        "question": "Which of the following bonds has the most polar character?",
+        "options": ["C-O", "C-F", "C-Br", "C-S"],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 24,
+        "question": "Ortho-nitro phenol contains",
+        "options": [
+          "Intramolecular H-bond",
+          "Both",
+          "Intermolecular H-bond",
+          "None"
+        ],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 25,
+        "question": "A characteristic feature of a reversible reaction is that",
+        "options": [
+          "They go to completion.",
+          "They are not reacting.",
+          "They are not complete unless the products are removed from the reactant system.",
+          "None of the above."
+        ],
+        "answer": 3,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 26,
+        "question": "In which of the following reversible reactions is Kc equal to Kp?",
+        "options": [
+          "a. PCl5 ⇌ PCl3 + Cl2",
+          "b. H₂ + 1/2H₂ ⇌ 2HI",
+          "c. 2SO3 ⇌ 2SO2 + O2",
+          "d. N2O4 ⇌ 2NO2"
+        ],
+        "answer": 4,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 27,
+        "question": "In a reversible reaction having two reactants in equilibrium, if the concentration of the reactants is doubled, then the equilibrium constant will",
+        "options": [
+          "a. Also be doubled",
+          "b. be halved",
+          "c. Become one fourth",
+          "d. Remain the same"
+        ],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 28,
+        "question": "When the equilibrium is established there occurs",
+        "options": [
+          "a. Change in concentration of the reactants",
+          "b. Change in concentration of products",
+          "c. Change in concentration of reactants and products",
+          "d. No change in concentration of reactants and products"
+        ],
+        "answer": 4,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 29,
+        "question": "The equilibrium constant can be expressed in terms of Kp and Kc. Normally these are not equal but will be equal if the number of moles of gaseous",
+        "options": [
+          "a. Reactants is more than that of gaseous products",
+          "b. Products is more than that of gaseous reactants",
+          "c. Reactants is equal to that of gaseous products",
+          "d. None of these"
+        ],
+        "answer": 3,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 30,
+        "question": "The standard electrode potential for the reduction of hydrogen ion (H⁺) to hydrogen gas (H₂) is assigned a value of",
+        "options": ["a. 0.00 V", "b. 0.22 V", "c. 0.34 V", "d. 1.23 V"],
+        "answer": 1,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 31,
+        "question": "The Nernst equation relates the electrode potential to the",
+        "options": [
+          "a. Concentration of reactants",
+          "b. Rate of reaction",
+          "c. Temperature of the system",
+          "d. Volume of the solution"
+        ],
+        "answer": 1,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 32,
+        "question": "Which of the following is a strong electrolyte?",
+        "options": [
+          "a. Acetic acid (CH₃COOH)",
+          "b. Ethanol (C₂H₅OH)",
+          "c. Sodium chloride (NaCl)",
+          "d. Glucose (C₆H₁₂O₆)"
+        ],
+        "answer": 3,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 33,
+        "question": "The process of the movement of ions in opposite directions through a membrane is known as",
+        "options": [
+          "a. Osmosis",
+          "b. Dialysis",
+          "c. Electrophoresis",
+          "d. Electrolysis"
+        ],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 34,
+        "question": "The electrode at which oxidation occurs is called the",
+        "options": [
+          "a. Cathode",
+          "b. Anode",
+          "c. Electrolyte",
+          "d. Salt bridge"
+        ],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 35,
+        "question": "The pH of a neutral solution is",
+        "options": ["7", "8", "6", "5"],
+        "answer": 1,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 36,
+        "question": "What is the common name for sodium hydroxide?",
+        "options": ["Baking soda", "Washing soda", "Caustic soda", "Borax"],
+        "answer": 3,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 37,
+        "question": "The pOH of a solution is 3. What is the pH?",
+        "options": ["3", "7", "11", "1"],
+        "answer": 1,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 38,
+        "question": "Which acid is found in lemon?",
+        "options": [
+          "Citric acid",
+          "Acetic acid",
+          "Hydrochloric acid",
+          "Sulfuric acid"
+        ],
+        "answer": 1,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 39,
+        "question": "What is the chemical formula for hydrochloric acid?",
+        "options": ["H₂O", "HCl", "NaOH", "CH₄"],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 40,
+        "question": "The process of conversion of vapors directly into solids without passing through the liquid state is called",
+        "options": [
+          "a. Sublimation",
+          "b. Condensation",
+          "c. Fusion",
+          "d. Evaporation"
+        ],
+        "answer": 1,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 41,
+        "question": "Which of the following is a unit of pressure?",
+        "options": [
+          "a. Pascal (Pa)",
+          "b. Joule (J)",
+          "c. Newton (N)",
+          "d. Watt (W)"
+        ],
+        "answer": 1,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 42,
+        "question": "What happens to the pressure of a gas when its volume is decreased at constant temperature?",
+        "options": [
+          "a. Increases",
+          "b. Decreases",
+          "c. Remains constant",
+          "d. Becomes zero"
+        ],
+        "answer": 1,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 43,
+        "question": "The term 'plasma' is commonly associated with which state of matter?",
+        "options": [
+          "a. Solid",
+          "b. Liquid",
+          "c. Gas",
+          "d. Fourth state of matter"
+        ],
+        "answer": 4,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 44,
+        "question": "What is the SI unit of temperature?",
+        "options": [
+          "a. Kelvin (K)",
+          "b. Celsius (°C)",
+          "c. Fahrenheit (°F)",
+          "d. Rankine (°R)"
+        ],
+        "answer": 1,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 45,
+        "question": "The process by which the strength of a base is determined by reacting with a known amount (standard solution) of acid in the presence of an indicator is known as",
+        "options": [
+          "a. Acidimetry",
+          "b. Acidimetry and Alkalimetry",
+          "c. Alkalimetry",
+          "d. Titration"
+        ],
+        "answer": 4,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 46,
+        "question": "Which of the following is not a primary standard substance?",
+        "options": ["a. Oxalic acid", "b. KMnO₄", "c. K₂Cr₂O₇", "d. Na₂CO₃"],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 47,
+        "question": "Standard solution is",
+        "options": [
+          "a. Solution whose concentration is known",
+          "b. Solution whose concentration is to be calculated",
+          "c. Solution with high acid strength",
+          "d. Solution with high basic strength"
+        ],
+        "answer": 1,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 48,
+        "question": "Deci normal solution is",
+        "options": [
+          "a. 0.1 N solution",
+          "b. 0.01 N solution",
+          "c. 0.5 N solution",
+          "d. 0.1 M solution"
+        ],
+        "answer": 1,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 49,
+        "question": "Molarity is",
+        "options": [
+          "a. No. of gram equivalent of solute dissolved in a liter of solution",
+          "b. No. of moles of solute dissolved in 1 kg of solution",
+          "c. No. of gram equivalent of solute dissolved in 1 kg of solution",
+          "d. No. of moles of solute dissolved in a liter of solution"
+        ],
+        "answer": 1,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      }
+    ]
+  },
+
+  "inorganic chemistry": {
+    "icon": "https://cdn-icons-png.flaticon.com/512/6813/6813621.png",
+    "questions": [
+      {
+        "id": 50,
+        "question": "Number of neutrons present in protium is",
+        "options": ["1", "2", "Zero", "3"],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 51,
+        "question": "Which of the following is radioactive",
+        "options": ["Hydrogen", "Deuterium", "Protium", "Tritium"],
+        "answer": 4,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 52,
+        "question": "Hydrogen resembles with",
+        "options": [
+          "Alkali metal only",
+          "Halogens only",
+          "Both alkali metals and halogens",
+          "Neither alkali metals nor halogens"
+        ],
+        "answer": 3,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 53,
+        "question": "Heavy water is used as",
+        "options": [
+          "Washing water",
+          "Detergent",
+          "Drinking water",
+          "Moderator"
+        ],
+        "answer": 4,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 54,
+        "question": "Heavy water is",
+        "options": ["H₂O", "D₂O", "Water at 4°C", "T₂O"],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 55,
+        "question": "Ortho and para hydrogen differ in the",
+        "options": [
+          "Nature of spin of protons",
+          "Nature of spin electrons",
+          "Number of protons",
+          "Molecular weight"
+        ],
+        "answer": 1,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 56,
+        "question": "Hydrogen with parallel nuclear spin is known as",
+        "options": [
+          "Ortho hydrogen",
+          "Meta hydrogen",
+          "Para hydrogen",
+          "Deuterium"
+        ],
+        "answer": 3,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 57,
+        "question": "Which of the following is amphoteric oxide",
+        "options": ["ZnO", "Na₂O", "CuO", "N₂O₅"],
+        "answer": 3,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 58,
+        "question": "Which of the following is not diatomic?",
+        "options": ["Chlorine", "Oxygen", "Hydrogen", "Neon"],
+        "answer": 4,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 59,
+        "question": "Which of the following inert gases is not found in the atmosphere?",
+        "options": ["Ne", "Ar", "Rn", "Xe"],
+        "answer": 3,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 60,
+        "question": "Which of the following is a good conductor of electricity?",
+        "options": ["Diamond", "Coal", "Graphite", "None"],
+        "answer": 3,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 61,
+        "question": "The nature of chemical bonding in diamond is",
+        "options": ["Ionic", "Covalent", "Covalent and ionic", "Metallic"],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 62,
+        "question": "The dry ice is",
+        "options": [
+          "Dry solid of water",
+          "Solid carbon dioxide",
+          "Solid sulfur dioxide",
+          "Solid carbon monoxide"
+        ],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 63,
+        "question": "Bleaching action of chlorine is",
+        "options": ["Temporary", "Permanent", "Both", "None"],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 64,
+        "question": "Bleaching action of chlorine is due to",
+        "options": [
+          "Reduction of substances",
+          "Oxidation of substances",
+          "Both",
+          "None"
+        ],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+
+      {
+        "id": 65,
+        "question": "All alloy of Cu and Sn is known as",
+        "options": ["Brass", "Solder", "Bronze", "Horn silver"],
+        "answer": 3,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 66,
+        "question": "SO₂ can act as a",
+        "options": [
+          "Oxidizing agent",
+          "Bleaching agent",
+          "Reducing agent",
+          "All"
+        ],
+        "answer": 4,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 67,
+        "question": "Sodium metal can't be kept in",
+        "options": ["Benzene", "Alcohol", "Kerosene", "Toluene"],
+        "answer": 3,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 68,
+        "question": "Cinnabar is ore of",
+        "options": ["Zn", "Pb", "Hg", "Ag"],
+        "answer": 3,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 69,
+        "question": "Molecular formula of calomel is",
+        "options": ["HgCl2", "CuCl2", "Hg2Cl2", "Cu₂Cl₂"],
+        "answer": 1,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 70,
+        "question": "Carnalite is",
+        "options": ["KCl", "KCl·MgCl2·6H2O", "CuSO4·5H2O", "CaSO4·2H2O"],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 71,
+        "question": "Which of the following is not an ore of magnesium?",
+        "options": ["Carnalite", "Dolomite", "Magnesia", "Gypsum"],
+        "answer": 4,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      }
+    ]
+  },
+
+  "organic chemistry": {
+    "icon": "https://cdn-icons-png.flaticon.com/512/6813/6813617.png",
+    "questions": [
+      {
+        "id": 72,
+        "question": "Which of the following hydrocarbons does not have isomers?",
+        "options": ["C7H16", "CH10", "C6H14"],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 73,
+        "question": "How many isomers of alkanes with the molecular formula CH₁₂ are there?",
+        "options": ["1", "2", "3", "4", "5"],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 74,
+        "question": "1-chloropropane and 2-chloropropane exhibit isomerism. What type of isomerism does it show?",
+        "options": ["Chain", "Position", "Functional", "Metamerism"],
+        "answer": 3,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 75,
+        "question": "A compound with the same molecular formula exists in two forms, one is alcohol and the other is ether. What type of isomerism does it show?",
+        "options": [
+          "Metamerism",
+          "Positional isomerism",
+          "Functional isomerism",
+          "Chain isomerism"
+        ],
+        "answer": 3,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 76,
+        "question": "In ethane (C2H6), the C-C bonds form a",
+        "options": ["π bond", "σ bond", "Covalent bond", "Electrovalent bond"],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 77,
+        "question": "Saturated hydrocarbons are referred to as",
+        "options": ["Alkanes", "Alkenes", "Alkynes", "Alcohols"],
+        "answer": 1,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 78,
+        "question": "Functional isomer of carboxylic acids is",
+        "options": ["Ether", "Ester", "Alcohol", "Aldehyde"],
+        "answer": 4,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 79,
+        "question": "Structure of methane is",
+        "options": ["Linear", "Triangular", "Planar", "Tetrahedral"],
+        "answer": 4,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 80,
+        "question": "Carbon atom in acetylene is",
+        "options": [
+          "SP hybridized",
+          "SP2 hybridized",
+          "SP3 hybridized",
+          "SP3d hybridized"
+        ],
+        "answer": 1,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 81,
+        "question": "Lewis acids are",
+        "options": ["Electrophiles", "Nucleophiles", "Both", "None"],
+        "answer": 1,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 82,
+        "question": "Lewis bases are",
+        "options": ["Electrophiles", "Nucleophiles", "Both", "None"],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+
+      {
+        "id": 83,
+        "question": "To prepare ethane from bromoethane, the reagent used is",
+        "options": ["H₂/Ni", "LIATHA", "Red P/HI"],
+        "answer": 1,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 84,
+        "question": "Which of the following reagents can be used to prepare chloroalkane from alcohol?",
+        "options": ["Lucas reagent", "PCI", "SOCI"],
+        "answer": 1,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 85,
+        "question": "When an unsymmetrical alkene is treated with an unsymmetrical reagent, then the positive part of the reagent goes to the carbon atom which contains more numbers of hydrogen is a statement of",
+        "options": [
+          "Kharash effect",
+          "Saytzeff's rule",
+          "Markovnikov's rule",
+          "Both a and c"
+        ],
+        "answer": 3,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 86,
+        "question": "Carbon in benzene is",
+        "options": [
+          "SP hybridized",
+          "SP2 hybridized",
+          "SP3 hybridized",
+          "SP3d hybridized"
+        ],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+
+      {
+        "id": 87,
+        "question": "Which of the following reagents can be used to produce chloroalkane from alcohol?",
+        "options": ["PCl5", "PCl3", "SOCI2", "ALL"],
+        "answer": 3,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 88,
+        "question": "Grignard reagent reacts with formaldehyde to produce",
+        "options": [
+          "Acid",
+          "Primary alcohol",
+          "Secondary alcohol",
+          "Tertiary alcohol"
+        ],
+        "answer": 3,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 89,
+        "question": "Ethanol can be dried by using",
+        "options": [
+          "Conc. H2SO4",
+          "Anhydrous calcium chloride",
+          "Quick lime",
+          "Slaked lime"
+        ],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+
+      {
+        "id": 90,
+        "question": "Aldehydes behave as",
+        "options": [
+          "Oxidizing agent",
+          "Reducing agent",
+          "Dehydrating agent",
+          "Both a and b"
+        ],
+        "answer": 3,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 91,
+        "question": "Which of the following are not oxidized in ordinary conditions?",
+        "options": ["Alcohol", "Aldehydes", "Ketones", "Carboxylic acid"],
+        "answer": 3,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 92,
+        "question": "Aldehydes change the color of Schiff's reagent to",
+        "options": ["White color", "Pink color", "Red color", "Green color"],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+
+      {
+        "id": 93,
+        "question": "Which of the following remains unreactive in Hoffman's separation of primary, secondary, and tertiary amine?",
+        "options": [
+          "Primary amine",
+          "Secondary amine",
+          "Tertiary amine",
+          "None"
+        ],
+        "answer": 3,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 94,
+        "question": "Sodium benzoate on heating with soda lime gives",
+        "options": ["Toluene", "Benzyl alcohol", "Benzaldehyde", "Benzene"],
+        "answer": 3,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+
+      {
+        "id": 95,
+        "question": "Which one of the following is a condensation polymer?",
+        "options": ["Polyethene", "Terylene", "PVC", "Teflon"],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 96,
+        "question": "Enzymes are",
+        "options": ["Carbohydrate", "Lipids", "Protein", "Nucleic acid"],
+        "answer": 3,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 97,
+        "question": "Which base is found only in the nucleotides of RNA?",
+        "options": ["Adenine", "Guanine", "Uracil", "Cytosine"],
+        "answer": 3,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 98,
+        "question": "Penicillin is an example of",
+        "options": [
+          "Antiseptic drug",
+          "Antibiotic drug",
+          "Antipyretic drug",
+          "Analgesic drug"
+        ],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 99,
+        "question": "Which one of the following dyes can't be directly used?",
+        "options": ["Acid dyes", "Basic dyes", "Direct dyes", "Mordant dyes"],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 100,
+        "question": "Azo dye contains",
+        "options": [
+          "Nitro group (-NO₂)",
+          "Nitroso group (-NO)",
+          "CN group",
+          "SO3H group"
+        ],
+        "answer": 3,
+        "explanation": "",
+        "isVerified": false,
+        "verified_by": "",
+        "image": ""
+      }
+    ]
+  }
+}

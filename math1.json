@@ -1,0 +1,22 @@
+{
+  "algebra": {
+    "icon": "https://cdn-icons-png.flaticon.com/512/1631/1631280.png",
+    "questions": []
+  },
+  "trigonometry": {
+    "icon": "https://cdn-icons-png.flaticon.com/512/6813/6813621.png",
+    "questions": []
+  },
+  "co-ordinate geometry": {
+    "icon": "https://cdn-icons-png.flaticon.com/512/6813/6813617.png",
+    "questions": []
+  },
+  "calculus": {
+    "icon": "https://cdn-icons-png.flaticon.com/512/9803/9803085.png",
+    "questions": []
+  },
+  "vector": {
+    "icon": "https://cdn-icons-png.flaticon.com/512/1036/1036401.png",
+    "questions": []
+  }
+}
