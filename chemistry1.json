@@ -1,6 +1,6 @@
 {
   "physical chemistry": {
-    "icon": "https://cdn-icons-png.flaticon.com/512/1631/1631280.png",
+    "icon": "https://cdn-icons-png.flaticon.com/512/2532/2532656.png",
     "questions": [
       {
         "id": 1,
@@ -642,7 +642,7 @@
   },
 
   "inorganic chemistry": {
-    "icon": "https://cdn-icons-png.flaticon.com/512/6813/6813621.png",
+    "icon": "https://cdn-icons-png.flaticon.com/512/6167/6167898.png",
     "questions": [
       {
         "id": 50,
@@ -904,7 +904,7 @@
   },
 
   "organic chemistry": {
-    "icon": "https://cdn-icons-png.flaticon.com/512/6813/6813617.png",
+    "icon": "https://cdn-icons-png.flaticon.com/512/1006/1006376.png",
     "questions": [
       {
         "id": 72,
