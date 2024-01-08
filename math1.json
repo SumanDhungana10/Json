@@ -1,22 +1,127 @@
 {
   "algebra": {
     "icon": "https://cdn-icons-png.flaticon.com/512/3299/3299966.png",
-    "questions": []
+    "questions": [
+      {
+        "id": 1,
+        "question": "If a is along the positive Z-axis and \\vec{a}\\times\\vec{b}=0 then b could be",
+        "options": ["i+j", "3j", "41"],
+        "answer": 1,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 2,
+        "question": "Which of the following forces can be applied to a body so as not to cause acceleration of the body?",
+        "options": ["6, 7, 15", "20, 5, 12", "7, 16, 8", "9, 10, 12"],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      }
+    ]
   },
   "trigonometry": {
     "icon": "https://cdn-icons-png.flaticon.com/512/5276/5276230.png",
-    "questions": []
+    "questions": [
+      {
+        "id": 1,
+        "question": "If a is along the positive Z-axis and \\vec{a}\\times\\vec{b}=0 then b could be",
+        "options": ["i+j", "3j", "41"],
+        "answer": 1,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 2,
+        "question": "Which of the following forces can be applied to a body so as not to cause acceleration of the body?",
+        "options": ["6, 7, 15", "20, 5, 12", "7, 16, 8", "9, 10, 12"],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      }
+    ]
   },
   "co-ordinate geometry": {
     "icon": "https://cdn-icons-png.flaticon.com/512/70/70699.png",
-    "questions": []
+    "questions": [
+      {
+        "id": 1,
+        "question": "If a is along the positive Z-axis and \\vec{a}\\times\\vec{b}=0 then b could be",
+        "options": ["i+j", "3j", "41"],
+        "answer": 1,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 2,
+        "question": "Which of the following forces can be applied to a body so as not to cause acceleration of the body?",
+        "options": ["6, 7, 15", "20, 5, 12", "7, 16, 8", "9, 10, 12"],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      }
+    ]
   },
   "calculus": {
     "icon": "https://cdn-icons-png.flaticon.com/512/1902/1902715.png",
-    "questions": []
+    "questions": [
+      {
+        "id": 1,
+        "question": "If a is along the positive Z-axis and \\vec{a}\\times\\vec{b}=0 then b could be",
+        "options": ["i+j", "3j", "41"],
+        "answer": 1,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 2,
+        "question": "Which of the following forces can be applied to a body so as not to cause acceleration of the body?",
+        "options": ["6, 7, 15", "20, 5, 12", "7, 16, 8", "9, 10, 12"],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      }
+    ]
   },
   "vector": {
     "icon": "https://cdn-icons-png.flaticon.com/512/3426/3426679.png",
-    "questions": []
+    "questions": [
+      {
+        "id": 1,
+        "question": "If a is along the positive Z-axis and \\vec{a}\\times\\vec{b}=0 then b could be",
+        "options": ["i+j", "3j", "41"],
+        "answer": 1,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      },
+      {
+        "id": 2,
+        "question": "Which of the following forces can be applied to a body so as not to cause acceleration of the body?",
+        "options": ["6, 7, 15", "20, 5, 12", "7, 16, 8", "9, 10, 12"],
+        "answer": 2,
+        "explanation": "",
+        "isVerified": true,
+        "verified_by": "Ronika",
+        "image": ""
+      }
+    ]
   }
 }
