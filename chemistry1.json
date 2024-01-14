@@ -919,7 +919,7 @@
       {
         "id": 73,
         "question": "How many isomers of alkanes with the molecular formula CH₁₂ are there?",
-        "options": ["1", "2", "3", "4", "5"],
+        "options": ["1", "2", "3", "4"],
         "answer": 2,
         "explanation": "",
         "isVerified": true,
