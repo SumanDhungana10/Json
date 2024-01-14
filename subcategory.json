@@ -1,109 +1,109 @@
 [
   {
     "id": 1,
-    "category": 1,
+    "category": "math",
     "subcategory": "algebra",
     "image": ""
   },
   {
     "id": 2,
-    "category": 1,
+    "category": "math",
     "subcategory": "trigonometry",
     "image": ""
   },
   {
     "id": 3,
-    "category": 1,
+    "category": "math",
     "subcategory": "co-ordinate_geometry",
     "image": ""
   },
   {
     "id": 4,
-    "category": 1,
+    "category": "math",
     "subcategory": "calculus",
     "image": ""
   },
   {
     "id": 5,
-    "category": 1,
+    "category": "math",
     "subcategory": "vector",
     "image": ""
   },
   {
     "id": 6,
-    "category": 2,
+    "category": "physics",
     "subcategory": "mechanics",
     "image": ""
   },
   {
     "id": 7,
-    "category": 2,
+    "category": "physics",
     "subcategory": "heat and thermodynamics",
     "image": ""
   },
   {
     "id": 8,
-    "category": 2,
+    "category": "physics",
     "subcategory": "wave and sound",
     "image": ""
   },
   {
     "id": 9,
-    "category": 2,
+    "category": "physics",
     "subcategory": "optics",
     "image": ""
   },
   {
     "id": 10,
-    "category": 2,
+    "category": "physics",
     "subcategory": "electrostatics",
     "image": ""
   },
   {
     "id": 11,
-    "category": 2,
+    "category": "physics",
     "subcategory": "electricity and magnetism",
     "image": ""
   },
   {
     "id": 12,
-    "category": 2,
+    "category": "physics",
     "subcategory": "morden physics",
     "image": ""
   },
   {
     "id": 13,
-    "category": 3,
+    "category": "chemistry",
     "subcategory": "physical chemistry",
     "image": ""
   },
   {
     "id": 14,
-    "category": 3,
+    "category": "chemistry",
     "subcategory": "inorganic chemistry",
     "image": ""
   },
   {
     "id": 15,
-    "category": 3,
+    "category": "chemistry",
     "subcategory": "organic chemistry",
     "image": ""
   },
   {
     "id": 16,
-    "category": 4,
+    "category": "english",
     "subcategory": "grammer",
     "image": ""
   },
   {
     "id": 17,
-    "category": 4,
+    "category": "english",
     "subcategory": "synonym and antonym",
     "image": ""
   },
   {
     "id": 18,
-    "category": 5,
+    "category": "computer",
     "subcategory": "general it",
     "image": ""
   }
