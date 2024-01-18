@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "category": "C-programming",
+    "subcategory": "Basic",
+    "image": ""
+  },
+  {
+    "id": 2,
+    "category": "C-programming",
+    "subcategory": "Intermediate",
+    "image": ""
+  },
+  {
+    "id": 3,
+    "category": "C-programming",
+    "subcategory": "Advanced",
+    "image": ""
+  }
+]
